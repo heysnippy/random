@@ -46,6 +46,37 @@
           "content": "The server will remain open despite the issues above. This is only the beginning — fixes, improvements, and new features are already in motion. We’re just getting started. Stay tuned! <3"
         }
       ]
+    },
+    {
+      "id": "account-creation-issue",
+      "title": "Account Creation Issues",
+      "author": "PixeL",
+      "date": "2025-12-15",
+      "time": "21:05",
+      "published_at": "2025-12-15T21:05:00",
+      "summary": "We’re aware of an issue preventing new account creation on the website and are working on a fix.",
+      "sections": [
+        {
+          "type": "intro",
+          "content": "We’re currently aware of an issue preventing players from creating new accounts on the website. This is a problem on our end."
+        },
+        {
+          "type": "known_issues",
+          "title": "Current Issue",
+          "description": "The following issue is actively being addressed:",
+          "items": [
+            {
+              "title": "New account creation unavailable",
+              "details": "Players are unable to create new accounts at https://swegta.com/online/. A fix is already in progress and expected to be deployed in the morning."
+            }
+          ]
+        },
+        {
+          "type": "forward_looking",
+          "title": "What’s Next",
+          "content": "This issue will be resolved as soon as possible. Thanks for your patience while we get this sorted."
+        }
+      ]
     }
   ]
 }
